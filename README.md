@@ -56,4 +56,5 @@ If you are following along with my journey, feel free to explore the folders!
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/dev-blueprint.git](https://github.com/YOUR_USERNAME/dev-blueprint.git)
+   git clone https://github.com/Mmustafa-251977/dev-blueprint.git
+   ```
